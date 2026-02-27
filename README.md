@@ -1,5 +1,5 @@
-# NAME:AARTHI R
-# REG N0:212224060003
+# NAME: AARTHI R
+# REG N0: 212224060003
 # PSK & QPSK
 # Aim
 Write a simple Python program for the modulation and demodulation of PSK and QPSK.
